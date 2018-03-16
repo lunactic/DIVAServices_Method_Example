@@ -1,0 +1,11 @@
+//POST TO /collection
+{
+	"name": "CollectionName", //give it a name
+	"files":[
+		{
+			"type":"url",
+			"value":"http://www.tmbdev.net/en-default.pyrnn.gz", //Url to the file
+			"name":"english" //local filename (if wanted)
+		}
+		]
+}
