@@ -1,0 +1,12 @@
+{
+	"parameters":{
+		"enableSkew":"true",
+		"maxskew":10,
+		"skewsteps":5
+	},
+	"data":[
+		{
+			"inputImage": "ocr_test_marcel2/testImage.png"
+		}
+	]
+}
